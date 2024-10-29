@@ -1,9 +1,9 @@
 <div align="center">
 
-# Silloy Star Lib
+# Silloy Star Library
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4?logo=github)](https://github.com/silloy)
+[![Auth](https://img.shields.io/badge/Auth-silloy-ff69b4?logo=github)](https://github.com/silloy)
 [![MyStarList](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/silloy/stars-silloy#readme)
 
 🤩 Star List, updated daily! 🤩
