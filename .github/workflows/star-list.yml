@@ -1,4 +1,4 @@
-name: Update stars list
+name: update star list
 
 on:
   workflow_dispatch:
