@@ -165,8 +165,6 @@
 
 *   [addthis/stream-lib](https://github.com/addthis/stream-lib) - Stream summarizer and cardinality estimator.
 
-*   [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
-
 *   [Dreamroute/locker](https://github.com/Dreamroute/locker) - mybatis乐观锁插件,MyBatis Optimistic Locker Plugin
 
 *   [wyait/project](https://github.com/wyait/project) - project 公开项目，供大家使用，快速上手；并附上博客链接，详细描述使用方法和注意事项； 项目中的技术框架稳定版本不定时更新，欢迎关注；
@@ -232,6 +230,8 @@
 *   [takari/maven-wrapper](https://github.com/takari/maven-wrapper) - The easiest way to integrate Maven into your project!
 
 *   [dreamhead/moco](https://github.com/dreamhead/moco) - Easy Setup Stub Server
+
+*   [wiremock/wiremock](https://github.com/wiremock/wiremock) - A tool for mocking HTTP services
 
 ## JavaScript
 
