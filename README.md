@@ -13,8 +13,8 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [Python](#python)
+*   [Rust](#rust)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
@@ -47,13 +47,9 @@
 *   [Vim script](#vim-script-1)
 *   [Thanks](#thanks)
 
-## Rust
-
-*   [arthur-zhang/vxlan-hack](https://github.com/arthur-zhang/vxlan-hack) -
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
 ## Python
+
+*   [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 
 *   [volcengine/verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
 
@@ -126,6 +122,12 @@
 *   [geeseek/toolkits](https://github.com/geeseek/toolkits) - just toolkits
 
 *   [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
+
+## Rust
+
+*   [arthur-zhang/vxlan-hack](https://github.com/arthur-zhang/vxlan-hack) -
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## Java
 
@@ -638,8 +640,6 @@
 *   [transcode-open/apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
 
 *   [xuxiaodong/tmuxen](https://github.com/xuxiaodong/tmuxen) - tmux environment made easy.
-
-*   [looly/elasticsearch-definitive-guide-cn](https://github.com/looly/elasticsearch-definitive-guide-cn) - Elasticsearch权威指南中文版
 
 ## Stylus
 
