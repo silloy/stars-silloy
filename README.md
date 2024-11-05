@@ -13,10 +13,10 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [Java](#java)
-*   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [Swift](#swift)
 *   [Vue](#vue)
@@ -46,6 +46,98 @@
 *   [CSS](#css)
 *   [Vim script](#vim-script-1)
 *   [Thanks](#thanks)
+
+## miscellaneous
+
+*   [gantFDT/icraft](https://github.com/gantFDT/icraft) - iCraft Editor - Help you easily create excellent 3D architecture diagrams
+
+*   [lzxyzq/ML\_BOOK](https://github.com/lzxyzq/ML_BOOK) -
+
+*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
+
+*   [tidb-incubator/tidb-in-action](https://github.com/tidb-incubator/tidb-in-action) - TiDB In Action: based on 4.0
+
+*   [JCGit/books](https://github.com/JCGit/books) -
+
+*   [iv-web/weekly](https://github.com/iv-web/weekly) - 由腾讯IVWEB出品的《IVWEB技术周刊》
+
+*   [flysnoworg/go-in-action-notes](https://github.com/flysnoworg/go-in-action-notes) - Go语言实战读书笔记系列合集
+
+*   [waylau/essential-java](https://github.com/waylau/essential-java) - Essential Java, is a book about the Essentials of  Java Programming.《Java 编程要点》是一本 Java 的学习教程，主要介绍 Java 中应用广泛的部分，其中也包括了最新版本 Java 8 中的新特性，也算是个人对多年 Java 开发工作的总结。取其精华，图文并茂，并通过大量实例让你走近 Java 的世界！
+
+*   [CrazyCodes/E-Commerce-SQL](https://github.com/CrazyCodes/E-Commerce-SQL) -
+
+*   [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) - 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
+
+*   [joye61/typescript-tutorial](https://github.com/joye61/typescript-tutorial) - TypeScript速成教程（2小时速成）
+
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+*   [KeiKinn/ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
+
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
+
+*   [mipengchong/WhitePaper](https://github.com/mipengchong/WhitePaper) - 免费分享区块链白皮书，涉及各门各派。内容均来自互联网，如果侵权，请联系删除。  区块链白皮书 weixin：mipengchong
+
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+*   [qinyuhang/ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R) - Next Generation of ShadowsocksX
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+*   [javalite/activeweb](https://github.com/javalite/activeweb) - ActiveWeb moved, see below
+
+*   [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+
+*   [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
+
+*   [waylau/books-collection](https://github.com/waylau/books-collection) - To the programmer's open source and free books collection  给程序员的开源、免费书籍收集，图书集合。
+
+*   [CodeLittlePrince/blog](https://github.com/CodeLittlePrince/blog) - A front-end blog | 前端博客
+
+*   [stone0090/alibaba-interview](https://github.com/stone0090/alibaba-interview) - 阿里巴巴面试资源汇总
+
+*   [bosong/command\_help](https://github.com/bosong/command_help) - command help for zsh
+
+*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
+
+*   [gopherchina/conference](https://github.com/gopherchina/conference) -
+
+*   [Tim9Liu9/TimLiu-Python](https://github.com/Tim9Liu9/TimLiu-Python) - python资源集合与开源硬件
+
+*   [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
+
+*   [wangshunping/read\_requests](https://github.com/wangshunping/read_requests) - python requests 源码阅读，学习更pythonic 的python代码写法。
+
+*   [shadowsocksr-backup/shadowsocks-rss](https://github.com/shadowsocksr-backup/shadowsocks-rss) - ShadowsocksR update rss, SSR organization
+
+*   [gxchain/whitepaper](https://github.com/gxchain/whitepaper) -
+
+*   [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
+
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+*   [YunaiV/Blog](https://github.com/YunaiV/Blog) - 每周一篇，内容精简，不咸不淡，期盼探讨。微信公众号：芋道源码【纯源码分享公众号】
+
+*   [SkyAPMTest/agent-docker-deploy-demo](https://github.com/SkyAPMTest/agent-docker-deploy-demo) -
+
+*   [digitalsonic/spring-boot-in-action](https://github.com/digitalsonic/spring-boot-in-action) - 翻译Spring Boot in Action过程中的译稿及修改
+
+*   [unknwon/go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
+
+*   [giantray/stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
+
+*   [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
+
+*   [weexteam/article](https://github.com/weexteam/article) - This repos is a third party collection, and is not developed nor maintained by Apache Weex.
+
+*   [cssmagic/blog](https://github.com/cssmagic/blog) - CSS魔法 - 博客
+
+*   [AriTheElk/sublimetext-defaultplus-theme](https://github.com/AriTheElk/sublimetext-defaultplus-theme) - A beautifully simplistic sublime text theme.
 
 ## Python
 
@@ -307,96 +399,6 @@
 
 *   [romario333/opensudoku](https://github.com/romario333/opensudoku) -
 
-## miscellaneous
-
-*   [lzxyzq/ML\_BOOK](https://github.com/lzxyzq/ML_BOOK) -
-
-*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
-
-*   [tidb-incubator/tidb-in-action](https://github.com/tidb-incubator/tidb-in-action) - TiDB In Action: based on 4.0
-
-*   [JCGit/books](https://github.com/JCGit/books) -
-
-*   [iv-web/weekly](https://github.com/iv-web/weekly) - 由腾讯IVWEB出品的《IVWEB技术周刊》
-
-*   [flysnoworg/go-in-action-notes](https://github.com/flysnoworg/go-in-action-notes) - Go语言实战读书笔记系列合集
-
-*   [waylau/essential-java](https://github.com/waylau/essential-java) - Essential Java, is a book about the Essentials of  Java Programming.《Java 编程要点》是一本 Java 的学习教程，主要介绍 Java 中应用广泛的部分，其中也包括了最新版本 Java 8 中的新特性，也算是个人对多年 Java 开发工作的总结。取其精华，图文并茂，并通过大量实例让你走近 Java 的世界！
-
-*   [CrazyCodes/E-Commerce-SQL](https://github.com/CrazyCodes/E-Commerce-SQL) -
-
-*   [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) - 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
-
-*   [joye61/typescript-tutorial](https://github.com/joye61/typescript-tutorial) - TypeScript速成教程（2小时速成）
-
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-
-*   [KeiKinn/ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
-
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
-
-*   [mipengchong/WhitePaper](https://github.com/mipengchong/WhitePaper) - 免费分享区块链白皮书，涉及各门各派。内容均来自互联网，如果侵权，请联系删除。  区块链白皮书 weixin：mipengchong
-
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
-*   [qinyuhang/ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R) - Next Generation of ShadowsocksX
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [javalite/activeweb](https://github.com/javalite/activeweb) - ActiveWeb moved, see below
-
-*   [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
-
-*   [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
-
-*   [waylau/books-collection](https://github.com/waylau/books-collection) - To the programmer's open source and free books collection  给程序员的开源、免费书籍收集，图书集合。
-
-*   [CodeLittlePrince/blog](https://github.com/CodeLittlePrince/blog) - A front-end blog | 前端博客
-
-*   [stone0090/alibaba-interview](https://github.com/stone0090/alibaba-interview) - 阿里巴巴面试资源汇总
-
-*   [bosong/command\_help](https://github.com/bosong/command_help) - command help for zsh
-
-*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
-
-*   [gopherchina/conference](https://github.com/gopherchina/conference) -
-
-*   [Tim9Liu9/TimLiu-Python](https://github.com/Tim9Liu9/TimLiu-Python) - python资源集合与开源硬件
-
-*   [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
-
-*   [wangshunping/read\_requests](https://github.com/wangshunping/read_requests) - python requests 源码阅读，学习更pythonic 的python代码写法。
-
-*   [shadowsocksr-backup/shadowsocks-rss](https://github.com/shadowsocksr-backup/shadowsocks-rss) - ShadowsocksR update rss, SSR organization
-
-*   [gxchain/whitepaper](https://github.com/gxchain/whitepaper) -
-
-*   [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
-
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-
-*   [YunaiV/Blog](https://github.com/YunaiV/Blog) - 每周一篇，内容精简，不咸不淡，期盼探讨。微信公众号：芋道源码【纯源码分享公众号】
-
-*   [SkyAPMTest/agent-docker-deploy-demo](https://github.com/SkyAPMTest/agent-docker-deploy-demo) -
-
-*   [digitalsonic/spring-boot-in-action](https://github.com/digitalsonic/spring-boot-in-action) - 翻译Spring Boot in Action过程中的译稿及修改
-
-*   [unknwon/go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
-
-*   [giantray/stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
-
-*   [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
-
-*   [weexteam/article](https://github.com/weexteam/article) - This repos is a third party collection, and is not developed nor maintained by Apache Weex.
-
-*   [cssmagic/blog](https://github.com/cssmagic/blog) - CSS魔法 - 博客
-
-*   [AriTheElk/sublimetext-defaultplus-theme](https://github.com/AriTheElk/sublimetext-defaultplus-theme) - A beautifully simplistic sublime text theme.
-
 ## C++
 
 *   [zeroc-ice/ice](https://github.com/zeroc-ice/ice) - All-in-one solution for creating networked applications with RPC, pub/sub, server deployment, and more.
@@ -514,8 +516,6 @@
 *   [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo.
 
 *   [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-
-*   [alibaba/f2etest](https://github.com/alibaba/f2etest) - F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。
 
 ## HTML
 
