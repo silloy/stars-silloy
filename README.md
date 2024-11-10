@@ -387,7 +387,7 @@
 
 *   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
-*   [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey & Redis Java client. Complete Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Redis or Valkey based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
+*   [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey and Redis Java client. Complete Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
 
 *   [shekhargulati/day12-face-detection](https://github.com/shekhargulati/day12-face-detection) - OpenCV Java example
 
