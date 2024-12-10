@@ -446,7 +446,7 @@
 
 *   [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 
-*   [korbinzhao/aexpr](https://github.com/korbinzhao/aexpr) - A safe javascript expression interpreter, support operators / context accessing / property accessing / lodash functions.
+*   [michaeljohnn/aexpr](https://github.com/michaeljohnn/aexpr) - A safe javascript expression interpreter, support operators / context accessing / property accessing / lodash functions.
 
 *   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 
@@ -564,7 +564,7 @@
 
 *   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 
 *   [silloy/mqtt-go](https://github.com/silloy/mqtt-go) - golang使用mqtt的案例
 
