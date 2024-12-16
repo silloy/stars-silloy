@@ -14,6 +14,8 @@ jobs:
         uses: simonecorsi/mawesome@v2.2.0
         with:
           api-token: ${{ secrets.API_TOKEN }}
-          github-email: ${{ secrets.USER_EMAIL }}
-          github-name: ${{ github.repository_owner }}
+          ## github-email: ${{ secrets.USER_EMAIL }}
+          ## github-name: ${{ github.repository_owner }}
+          github-email: harvey.suu@gmail.com
+          github-name: hua
           template-path: "template/README.ejs"
