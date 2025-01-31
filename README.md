@@ -21,6 +21,7 @@
 *   [Swift](#swift)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Dart](#dart)
 *   [TypeScript](#typescript)
@@ -28,7 +29,6 @@
 *   [Go](#go)
 *   [SCSS](#scss)
 *   [C](#c-1)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Shell](#shell)
 *   [Stylus](#stylus)
 *   [C#](#c-2)
@@ -147,8 +147,6 @@
 *   [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 
 *   [volcengine/verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
-
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
 *   [sripathikrishnan/redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools) - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON
 
@@ -516,6 +514,16 @@
 
 *   [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo.
 
+## Jupyter Notebook
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
+*   [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
+
+*   [panxl6/cc150](https://github.com/panxl6/cc150) - 《程序员面试金典》(cc150)
+
+*   [Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion) - MTCNN with Motion Detection, on Raspberry Pi with Love
+
 ## HTML
 
 *   [phodal/ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
@@ -617,14 +625,6 @@
 *   [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 
 *   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-
-## Jupyter Notebook
-
-*   [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
-
-*   [panxl6/cc150](https://github.com/panxl6/cc150) - 《程序员面试金典》(cc150)
-
-*   [Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion) - MTCNN with Motion Detection, on Raspberry Pi with Love
 
 ## Shell
 
