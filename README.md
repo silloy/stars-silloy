@@ -146,7 +146,7 @@
 
 *   [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 
-*   [volcengine/verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
+*   [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 
 *   [sripathikrishnan/redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools) - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON
 
