@@ -304,7 +304,7 @@
 
 *   [google/guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google.
 
-*   [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
+*   [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
 
 *   [rhettpang/dynamic-datasource](https://github.com/rhettpang/dynamic-datasource) - springboot HikariCP 动态切换数据源
 
