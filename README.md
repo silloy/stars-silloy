@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Cuda](#cuda)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Rust](#rust)
@@ -45,6 +46,10 @@
 *   [Perl](#perl)
 *   [CSS](#css)
 *   [Thanks](#thanks)
+
+## Cuda
+
+*   [computerhistory/AlexNet-Source-Code](https://github.com/computerhistory/AlexNet-Source-Code) - This package contains the original 2012 AlexNet code.
 
 ## miscellaneous
 
@@ -211,8 +216,6 @@
 *   [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 
 *   [mattm/simple-neural-network](https://github.com/mattm/simple-neural-network) - A simple Python script showing how the backpropagation algorithm works.
-
-*   [geeseek/toolkits](https://github.com/geeseek/toolkits) - just toolkits
 
 ## Rust
 
