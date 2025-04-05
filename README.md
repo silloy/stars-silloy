@@ -197,8 +197,6 @@
 
 *   [gnuhpc/All-About-Redis](https://github.com/gnuhpc/All-About-Redis) -
 
-*   [misterch0c/shadowbroker](https://github.com/misterch0c/shadowbroker) - The Shadow Brokers "Lost In Translation" leak
-
 *   [CosmoGao/turing-chat](https://github.com/CosmoGao/turing-chat) - A Wechat robot based Python
 
 *   [arvi/Agila-Theme](https://github.com/arvi/Agila-Theme) - A Sublime Text 3 UI Theme
@@ -216,6 +214,8 @@
 *   [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 
 *   [mattm/simple-neural-network](https://github.com/mattm/simple-neural-network) - A simple Python script showing how the backpropagation algorithm works.
+
+*   [geeseek/toolkits](https://github.com/geeseek/toolkits) - just toolkits
 
 ## Rust
 
@@ -463,7 +463,7 @@
 
 *   [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 
-*   [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课 (全40集 2018年5月1号完成) B 站播放量 442 万
+*   [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课 (全40集 2018年5月1号完成) B 站播放量 457 万
 
 *   [ppoffice/hexo-theme-hueman](https://github.com/ppoffice/hexo-theme-hueman) - A redesign of Alx's wordpress theme Hueman, ported to Hexo.
 
