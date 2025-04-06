@@ -369,6 +369,8 @@
 
 *   [eBay/cors-filter](https://github.com/eBay/cors-filter) - CORS (Cross Origin Resource Sharing) is a mechanism supported by W3C to enable cross origin requests in web-browsers. CORS requires support from both browser and server to work.  This is a Java servlet filter implementation of server-side CORS for web containers such as Apache Tomcat.
 
+*   [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+
 *   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 
 *   [easybest/spring-data-mybatis](https://github.com/easybest/spring-data-mybatis) - Simplifies the development of creating a MyBatis-based data access layer.
@@ -638,8 +640,6 @@
 *   [v5tech/notes](https://github.com/v5tech/notes) - notes
 
 *   [boot2docker/boot2docker](https://github.com/boot2docker/boot2docker) - DEPRECATED; see https://github.com/boot2docker/boot2docker/pull/1408
-
-*   [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 
 *   [kakawait/uaa-behind-zuul-sample](https://github.com/kakawait/uaa-behind-zuul-sample) - Spring AuthorizationServer load balanced behind Zuul
 
