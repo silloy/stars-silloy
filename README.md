@@ -123,8 +123,6 @@
 
 *   [gxchain/whitepaper](https://github.com/gxchain/whitepaper) -
 
-*   [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
-
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 *   [YunaiV/Blog](https://github.com/YunaiV/Blog) - 每周一篇，内容精简，不咸不淡，期盼探讨。微信公众号：芋道源码【纯源码分享公众号】
@@ -420,6 +418,8 @@
 *   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 *   [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
+
+*   [editorconfig/editorconfig-notepad-plus-plus](https://github.com/editorconfig/editorconfig-notepad-plus-plus) - EditorConfig plugin for Notepad++
 
 ## Swift
 
