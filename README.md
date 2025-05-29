@@ -169,6 +169,8 @@
 
 *   [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
 *   [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
 *   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
@@ -534,8 +536,6 @@
 ## HTML
 
 *   [phodal/ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 *   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 
