@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Cuda](#cuda)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
@@ -25,7 +26,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Dart](#dart)
-*   [TypeScript](#typescript)
 *   [Markdown](#markdown)
 *   [Go](#go)
 *   [SCSS](#scss)
@@ -46,6 +46,22 @@
 *   [Perl](#perl)
 *   [CSS](#css)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [forge-gfx/forge](https://github.com/forge-gfx/forge) - :hammer:  An advanced 3D Gaussian Splatting renderer for THREE.js
+
+*   [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
+
+*   [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
+
+*   [frankcbliu/awesome-nextjs-notion-blog](https://github.com/frankcbliu/awesome-nextjs-notion-blog) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
+
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+
+*   [ralscha/blog](https://github.com/ralscha/blog) - Source code for my blog
+
+*   [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 
 ## Cuda
 
@@ -216,8 +232,6 @@
 *   [mattm/simple-neural-network](https://github.com/mattm/simple-neural-network) - A simple Python script showing how the backpropagation algorithm works.
 
 *   [geeseek/toolkits](https://github.com/geeseek/toolkits) - just toolkits
-
-*   [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 
 ## Rust
 
@@ -544,20 +558,6 @@
 ## Dart
 
 *   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-
-## TypeScript
-
-*   [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
-
-*   [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
-
-*   [frankcbliu/awesome-nextjs-notion-blog](https://github.com/frankcbliu/awesome-nextjs-notion-blog) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
-
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-
-*   [ralscha/blog](https://github.com/ralscha/blog) - Source code for my blog
-
-*   [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 
 ## Markdown
 
