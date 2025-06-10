@@ -49,7 +49,7 @@
 
 ## TypeScript
 
-*   [forge-gfx/forge](https://github.com/forge-gfx/forge) - :hammer:  An advanced 3D Gaussian Splatting renderer for THREE.js
+*   [sparkjsdev/spark](https://github.com/sparkjsdev/spark) - :hammer:  An advanced 3D Gaussian Splatting renderer for THREE.js
 
 *   [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 
