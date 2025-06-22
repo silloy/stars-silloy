@@ -157,7 +157,7 @@
 
 *   [cssmagic/blog](https://github.com/cssmagic/blog) - CSS魔法 - 博客
 
-*   [AriTheElk/sublimetext-defaultplus-theme](https://github.com/AriTheElk/sublimetext-defaultplus-theme) - A beautifully simplistic sublime text theme.
+*   [ariamckinley/sublimetext-defaultplus-theme](https://github.com/ariamckinley/sublimetext-defaultplus-theme) - A beautifully simplistic sublime text theme.
 
 ## Python
 
