@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Cuda](#cuda)
@@ -23,7 +24,6 @@
 *   [Swift](#swift)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Dart](#dart)
 *   [Markdown](#markdown)
@@ -46,6 +46,18 @@
 *   [Perl](#perl)
 *   [CSS](#css)
 *   [Thanks](#thanks)
+
+## Jupyter Notebook
+
+*   [charliedream1/ai\_quant\_trade](https://github.com/charliedream1/ai_quant_trade) - 股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
+*   [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
+
+*   [panxl6/cc150](https://github.com/panxl6/cc150) - 《程序员面试金典》(cc150)
+
+*   [Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion) - MTCNN with Motion Detection, on Raspberry Pi with Love
 
 ## Python
 
@@ -232,8 +244,6 @@
 *   [weexteam/article](https://github.com/weexteam/article) - This repos is a third party collection, and is not developed nor maintained by Apache Weex.
 
 *   [cssmagic/blog](https://github.com/cssmagic/blog) - CSS魔法 - 博客
-
-*   [ariamckinley/sublimetext-defaultplus-theme](https://github.com/ariamckinley/sublimetext-defaultplus-theme) - A beautifully simplistic sublime text theme.
 
 ## Rust
 
@@ -536,16 +546,6 @@
 *   [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 
 *   [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo.
-
-## Jupyter Notebook
-
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-*   [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
-
-*   [panxl6/cc150](https://github.com/panxl6/cc150) - 《程序员面试金典》(cc150)
-
-*   [Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion) - MTCNN with Motion Detection, on Raspberry Pi with Love
 
 ## HTML
 
