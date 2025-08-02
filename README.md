@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Java](#java)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -20,7 +21,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Cuda](#cuda)
 *   [Rust](#rust)
-*   [C++](#c)
 *   [Swift](#swift)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
@@ -44,6 +44,22 @@
 *   [Gherkin](#gherkin)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## C++
+
+*   [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
+
+*   [zeroc-ice/ice](https://github.com/zeroc-ice/ice) - All-in-one solution for creating networked applications with RPC, pub/sub, server deployment, and more.
+
+*   [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.
+
+*   [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
+
+*   [ice1000/algo4j](https://github.com/ice1000/algo4j) - :horse\_racing: An algorithm library using java native interface
+
+*   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+
+*   [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
 
 ## Java
 
@@ -441,20 +457,6 @@
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
-## C++
-
-*   [zeroc-ice/ice](https://github.com/zeroc-ice/ice) - All-in-one solution for creating networked applications with RPC, pub/sub, server deployment, and more.
-
-*   [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.
-
-*   [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
-
-*   [ice1000/algo4j](https://github.com/ice1000/algo4j) - :horse\_racing: An algorithm library using java native interface
-
-*   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
-
-*   [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
-
 ## Swift
 
 *   [ipader/SwiftGuide](https://github.com/ipader/SwiftGuide) - Swift Featured Projects in brain Mapping
@@ -550,8 +552,6 @@
 *   [geekcompany/DeerResume](https://github.com/geekcompany/DeerResume) - MarkDown在线简历工具，可在线预览、编辑和生成PDF。\[此项目已不再维护，建议使用 cv.ftqq.com 替代 ]
 
 *   [hustcc/canvas-nest.js](https://github.com/hustcc/canvas-nest.js) - :cancer: Interactive Particle / Nest System With JavaScript and Canvas, no jQuery.
-
-*   [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 
 ## HTML
 
