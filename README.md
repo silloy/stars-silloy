@@ -339,7 +339,7 @@
 
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
-*   [ralscha/blog](https://github.com/ralscha/blog) - Source code for my blog
+*   [ralscha/blog](https://github.com/ralscha/blog) - Source code for my blog posts
 
 *   [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 
