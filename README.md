@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Astro](#astro)
 *   [Python](#python)
 *   [C++](#c)
 *   [Java](#java)
@@ -44,6 +45,10 @@
 *   [Gherkin](#gherkin)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## Astro
+
+*   [hellokaton/china-ranking](https://github.com/hellokaton/china-ranking) - 💻 中国区 Github 开发者排行榜
 
 ## Python
 
@@ -550,8 +555,6 @@
 *   [nodeWechat/wechat4u](https://github.com/nodeWechat/wechat4u) - 微信 wechat web 网页版接口的 JavaScript 实现，兼容Node和浏览器，微信机器人
 
 *   [hexsum/Mojo-URLMonitor](https://github.com/hexsum/Mojo-URLMonitor) - 网页QQ/微信/新浪微博等重要文件监控，方便发现文件变动，及时更新相关项目
-
-*   [geekcompany/DeerResume](https://github.com/geekcompany/DeerResume) - MarkDown在线简历工具，可在线预览、编辑和生成PDF。\[此项目已不再维护，建议使用 cv.ftqq.com 替代 ]
 
 ## HTML
 
