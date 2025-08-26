@@ -13,13 +13,13 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [Astro](#astro)
 *   [Python](#python)
 *   [C++](#c)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Cuda](#cuda)
 *   [Rust](#rust)
 *   [Swift](#swift)
@@ -44,6 +44,20 @@
 *   [TeX](#tex)
 *   [Gherkin](#gherkin)
 *   [Thanks](#thanks)
+
+## Jupyter Notebook
+
+*   [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
+
+*   [charliedream1/ai\_quant\_trade](https://github.com/charliedream1/ai_quant_trade) - 股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
+*   [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
+
+*   [panxl6/cc150](https://github.com/panxl6/cc150) - 《程序员面试金典》(cc150)
+
+*   [Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion) - MTCNN with Motion Detection, on Raspberry Pi with Love
 
 ## TypeScript
 
@@ -148,8 +162,6 @@
 *   [yanunon/NeteaseCloudMusic](https://github.com/yanunon/NeteaseCloudMusic) - 网易云音乐
 
 *   [littlecodersh/itchatmp](https://github.com/littlecodersh/itchatmp) - A complete and graceful API for wechat mp. 完备优雅的微信公众号接口，原生支持同步、协程使用。
-
-*   [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 
 ## C++
 
@@ -442,18 +454,6 @@
 *   [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 
 *   [weexteam/article](https://github.com/weexteam/article) - This repos is a third party collection, and is not developed nor maintained by Apache Weex.
-
-## Jupyter Notebook
-
-*   [charliedream1/ai\_quant\_trade](https://github.com/charliedream1/ai_quant_trade) - 股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易
-
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-*   [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
-
-*   [panxl6/cc150](https://github.com/panxl6/cc150) - 《程序员面试金典》(cc150)
-
-*   [Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion) - MTCNN with Motion Detection, on Raspberry Pi with Love
 
 ## Cuda
 
