@@ -117,7 +117,7 @@
 
 *   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 
-*   [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
+*   [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
 
 *   [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 
