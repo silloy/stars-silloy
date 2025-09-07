@@ -463,6 +463,8 @@
 
 *   [arthur-zhang/vxlan-hack](https://github.com/arthur-zhang/vxlan-hack) -
 
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+
 ## Swift
 
 *   [ipader/SwiftGuide](https://github.com/ipader/SwiftGuide) - Swift Featured Projects in brain Mapping
@@ -486,8 +488,6 @@
 *   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 
 *   [jawil/blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 *   [JackonYang/money-maker-apps](https://github.com/JackonYang/money-maker-apps) - 我认为有赚钱能力的开源小程序、个人网站
 
