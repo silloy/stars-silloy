@@ -13,11 +13,13 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
+*   [Python](#python)
+*   [Scala](#scala)
 *   [Java](#java)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [Astro](#astro)
-*   [Python](#python)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Cuda](#cuda)
@@ -31,7 +33,6 @@
 *   [Go](#go)
 *   [SCSS](#scss)
 *   [C](#c-1)
-*   [Shell](#shell)
 *   [Stylus](#stylus)
 *   [C#](#c-2)
 *   [Emacs Lisp](#emacs-lisp)
@@ -39,11 +40,106 @@
 *   [Ruby](#ruby)
 *   [Erlang](#erlang)
 *   [Vim Script](#vim-script)
-*   [Scala](#scala)
 *   [Kotlin](#kotlin)
 *   [TeX](#tex)
 *   [Gherkin](#gherkin)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+*   [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
+
+*   [spencergibb/spring-cloud-gateway-bench](https://github.com/spencergibb/spring-cloud-gateway-bench) - Simple benchmark comparing zuul and spring cloud gateway
+
+*   [v5tech/notes](https://github.com/v5tech/notes) - notes
+
+*   [boot2docker/boot2docker](https://github.com/boot2docker/boot2docker) - DEPRECATED; see https://github.com/boot2docker/boot2docker/pull/1408
+
+*   [kakawait/uaa-behind-zuul-sample](https://github.com/kakawait/uaa-behind-zuul-sample) - Spring AuthorizationServer load balanced behind Zuul
+
+## Python
+
+*   [BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B) -
+
+*   [thomas-yanxin/ColugoMum](https://github.com/thomas-yanxin/ColugoMum) - 🍰🍎ColugoMum: Intelligent Retail Settlement Platform can accurately locate and identify each commodity, and can return a complete shopping list and the actual total price of commodities that customers should pay.
+
+*   [OpenManus/OpenManus-RL](https://github.com/OpenManus/OpenManus-RL) - A live stream development of RL tunning for LLM agents
+
+*   [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
+
+*   [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
+
+*   [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+
+*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
+*   [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
+
+*   [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
+
+*   [sripathikrishnan/redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools) - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [eigenmiao/Rickrack](https://github.com/eigenmiao/Rickrack) - Generate harmonious colors freely.
+
+*   [JimSunJing/douban\_crawler](https://github.com/JimSunJing/douban_crawler) - 备份豆瓣计划
+
+*   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+
+*   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
+
+*   [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
+
+*   [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+
+*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
+
+*   [DT42/BerryNet](https://github.com/DT42/BerryNet) - Deep learning gateway on Raspberry Pi and other edge devices
+
+*   [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f\*ck Python? 😱
+
+*   [ehForwarderBot/ehForwarderBot](https://github.com/ehForwarderBot/ehForwarderBot) - An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.
+
+*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
+
+*   [raptorz/alidayu](https://github.com/raptorz/alidayu) - 阿里大鱼短信接口，python3
+
+*   [0x5010/alidayu](https://github.com/0x5010/alidayu) - 阿里大鱼短信接口， 修改至阿里大于官方python sdk 支持python2, python3。
+
+*   [wangtonghe/hq-answer-assist](https://github.com/wangtonghe/hq-answer-assist) - 百万英雄、冲顶大会等HQ类答题游戏辅助。Android、iOS均支持，推荐答案标红显示。
+
+*   [Prinsphield/Wechat\_AutoJump](https://github.com/Prinsphield/Wechat_AutoJump) - AI plays WeChat Jump Game
+
+*   [wangshub/wechat\_jump\_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
+
+*   [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
+
+*   [gnuhpc/All-About-Redis](https://github.com/gnuhpc/All-About-Redis) -
+
+*   [CosmoGao/turing-chat](https://github.com/CosmoGao/turing-chat) - A Wechat robot based Python
+
+*   [arvi/Agila-Theme](https://github.com/arvi/Agila-Theme) - A Sublime Text 3 UI Theme
+
+*   [waditu/tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
+
+*   [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+*   [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn) - trying to be a robust, user-friendly and hackable music player
+
+## Scala
+
+*   [mayi295940/streampark-piflowx](https://github.com/mayi295940/streampark-piflowx) -
+
+*   [yahoo/CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 
 ## Java
 
@@ -273,82 +369,6 @@
 
 *   [hellokaton/china-ranking](https://github.com/hellokaton/china-ranking) - 💻 中国区 Github 开发者排行榜
 
-## Python
-
-*   [thomas-yanxin/ColugoMum](https://github.com/thomas-yanxin/ColugoMum) - 🍰🍎ColugoMum: Intelligent Retail Settlement Platform can accurately locate and identify each commodity, and can return a complete shopping list and the actual total price of commodities that customers should pay.
-
-*   [OpenManus/OpenManus-RL](https://github.com/OpenManus/OpenManus-RL) - A live stream development of RL tunning for LLM agents
-
-*   [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
-
-*   [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
-
-*   [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-
-*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-
-*   [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-
-*   [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
-
-*   [sripathikrishnan/redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools) - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [eigenmiao/Rickrack](https://github.com/eigenmiao/Rickrack) - Generate harmonious colors freely.
-
-*   [JimSunJing/douban\_crawler](https://github.com/JimSunJing/douban_crawler) - 备份豆瓣计划
-
-*   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-
-*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
-
-*   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
-
-*   [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
-
-*   [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
-
-*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-
-*   [DT42/BerryNet](https://github.com/DT42/BerryNet) - Deep learning gateway on Raspberry Pi and other edge devices
-
-*   [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f\*ck Python? 😱
-
-*   [ehForwarderBot/ehForwarderBot](https://github.com/ehForwarderBot/ehForwarderBot) - An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.
-
-*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-
-*   [raptorz/alidayu](https://github.com/raptorz/alidayu) - 阿里大鱼短信接口，python3
-
-*   [0x5010/alidayu](https://github.com/0x5010/alidayu) - 阿里大鱼短信接口， 修改至阿里大于官方python sdk 支持python2, python3。
-
-*   [wangtonghe/hq-answer-assist](https://github.com/wangtonghe/hq-answer-assist) - 百万英雄、冲顶大会等HQ类答题游戏辅助。Android、iOS均支持，推荐答案标红显示。
-
-*   [Prinsphield/Wechat\_AutoJump](https://github.com/Prinsphield/Wechat_AutoJump) - AI plays WeChat Jump Game
-
-*   [wangshub/wechat\_jump\_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
-
-*   [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
-
-*   [gnuhpc/All-About-Redis](https://github.com/gnuhpc/All-About-Redis) -
-
-*   [CosmoGao/turing-chat](https://github.com/CosmoGao/turing-chat) - A Wechat robot based Python
-
-*   [arvi/Agila-Theme](https://github.com/arvi/Agila-Theme) - A Sublime Text 3 UI Theme
-
-*   [waditu/tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
-
-*   [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-
-*   [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn) - trying to be a robust, user-friendly and hackable music player
-
-*   [yanunon/NeteaseCloudMusic](https://github.com/yanunon/NeteaseCloudMusic) - 网易云音乐
-
 ## C++
 
 *   [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
@@ -555,8 +575,6 @@
 
 *   [nodeWechat/wechat4u](https://github.com/nodeWechat/wechat4u) - 微信 wechat web 网页版接口的 JavaScript 实现，兼容Node和浏览器，微信机器人
 
-*   [hexsum/Mojo-URLMonitor](https://github.com/hexsum/Mojo-URLMonitor) - 网页QQ/微信/新浪微博等重要文件监控，方便发现文件变动，及时更新相关项目
-
 ## HTML
 
 *   [phodal/ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
@@ -639,20 +657,6 @@
 
 *   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
-## Shell
-
-*   [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
-
-*   [spencergibb/spring-cloud-gateway-bench](https://github.com/spencergibb/spring-cloud-gateway-bench) - Simple benchmark comparing zuul and spring cloud gateway
-
-*   [v5tech/notes](https://github.com/v5tech/notes) - notes
-
-*   [boot2docker/boot2docker](https://github.com/boot2docker/boot2docker) - DEPRECATED; see https://github.com/boot2docker/boot2docker/pull/1408
-
-*   [kakawait/uaa-behind-zuul-sample](https://github.com/kakawait/uaa-behind-zuul-sample) - Spring AuthorizationServer load balanced behind Zuul
-
-*   [transcode-open/apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
-
 ## Stylus
 
 *   [Molunerfinn/hexo-theme-melody](https://github.com/Molunerfinn/hexo-theme-melody) - :musical\_keyboard:A simple & beautiful & fast theme for Hexo.
@@ -688,10 +692,6 @@
 ## Vim Script
 
 *   [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim) - A modular configuration of Vim and Neovim
-
-## Scala
-
-*   [yahoo/CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 
 ## Kotlin
 
