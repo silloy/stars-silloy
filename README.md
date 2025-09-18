@@ -49,7 +49,7 @@
 
 *   [apache/streampark](https://github.com/apache/streampark) - Make stream processing easier! Easy-to-use streaming application development framework and operation platform.
 
-*   [fast-excel/fastexcel](https://github.com/fast-excel/fastexcel) - Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.
+*   [fast-excel/fesod](https://github.com/fast-excel/fesod) - Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.
 
 *   [cdkjframework/wiki-framework](https://github.com/cdkjframework/wiki-framework) - cdkjFramework（维基框架）依托Spring Boot，Spring Cloud 面向全场景的 Java 企业级应用开发框架：高效、开放、安全、微服务！同时兼容 java8（需在1.0.7之前版本）， java17及以上。
 
