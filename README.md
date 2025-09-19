@@ -14,6 +14,7 @@
 ## Table of Contents
 
 *   [Java](#java)
+*   [Markdown](#markdown)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Python](#python)
@@ -29,7 +30,6 @@
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [Dart](#dart)
-*   [Markdown](#markdown)
 *   [Go](#go)
 *   [SCSS](#scss)
 *   [C](#c-1)
@@ -46,6 +46,8 @@
 *   [Thanks](#thanks)
 
 ## Java
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 
 *   [apache/streampark](https://github.com/apache/streampark) - Make stream processing easier! Easy-to-use streaming application development framework and operation platform.
 
@@ -235,6 +237,14 @@
 
 *   [romario333/opensudoku](https://github.com/romario333/opensudoku) -
 
+## Markdown
+
+*   [ascendho/code-2nd](https://github.com/ascendho/code-2nd) - 🔢 《编码》第二版官方参考资源（勘误表，书籍插图、交互式网站和英文PDF）以及个人笔记✍️，大师Charles Petzold对《编码》这一力作的再版，理解计算机底层原理的极佳入门读物📔
+
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+*   [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
+
 ## JavaScript
 
 *   [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
@@ -308,8 +318,6 @@
 *   [gangtao/dataplay2](https://github.com/gangtao/dataplay2) - A simple data analysis software
 
 *   [JacksonTian/fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure
-
-*   [nodeWechat/wechat4u](https://github.com/nodeWechat/wechat4u) - 微信 wechat web 网页版接口的 JavaScript 实现，兼容Node和浏览器，微信机器人
 
 ## Shell
 
@@ -396,8 +404,6 @@
 *   [arvi/Agila-Theme](https://github.com/arvi/Agila-Theme) - A Sublime Text 3 UI Theme
 
 *   [waditu/tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
-
-*   [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## Scala
 
@@ -586,12 +592,6 @@
 ## Dart
 
 *   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-
-## Markdown
-
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-
-*   [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 
 ## Go
 
