@@ -42,10 +42,11 @@
 *   [Vim Script](#vim-script)
 *   [Kotlin](#kotlin)
 *   [TeX](#tex)
-*   [Gherkin](#gherkin)
 *   [Thanks](#thanks)
 
 ## miscellaneous
+
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
 *   [WeitaoZhu/Python](https://github.com/WeitaoZhu/Python) - Python经典书籍
 
@@ -700,10 +701,6 @@
 ## TeX
 
 *   [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
-
-## Gherkin
-
-*   [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Thanks
 
