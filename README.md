@@ -576,7 +576,7 @@
 
 *   [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 
-*   [freakchick/DBApi](https://github.com/freakchick/DBApi) - A no-code tool to build http API from sql. Only need to write sql , then http API generated automatically. Especially suitable for developing backend service for report.
+*   [freakchick/DBAPI](https://github.com/freakchick/DBAPI) - A no-code tool to build http API with sql. Only need to write sql , then http API generated automatically. Especially suitable for developing backend service for report.
 
 *   [wangduanduan/v3-el-dashboard](https://github.com/wangduanduan/v3-el-dashboard) - vue-cli 3x版的dashboard, 使用vuex做多标签页，stupid simple!
 
