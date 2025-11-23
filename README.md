@@ -154,7 +154,7 @@
 
 *   [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 
-*   [korbinjoe/aexpr](https://github.com/korbinjoe/aexpr) - A safe javascript expression interpreter, support operators / context accessing / property accessing / lodash functions.
+*   [korbinzhao/aexpr](https://github.com/korbinzhao/aexpr) - A safe javascript expression interpreter, support operators / context accessing / property accessing / lodash functions.
 
 *   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 
