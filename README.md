@@ -144,7 +144,7 @@
 
 *   [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 
-*   [BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B) -
+*   [BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B) - Spiking Brain-inspired Large Models, integrating hybrid efficient attention, MoE modules and spike encoding into its architecture
 
 *   [thomas-yanxin/ColugoMum](https://github.com/thomas-yanxin/ColugoMum) - 🍰🍎ColugoMum: Intelligent Retail Settlement Platform can accurately locate and identify each commodity, and can return a complete shopping list and the actual total price of commodities that customers should pay.
 
