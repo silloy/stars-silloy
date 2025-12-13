@@ -46,7 +46,7 @@
 
 ## miscellaneous
 
-*   [anyofai/poe](https://github.com/anyofai/poe) - 最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！
+*   [anyofai/poe](https://github.com/anyofai/poe) - 最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.2、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！
 
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
