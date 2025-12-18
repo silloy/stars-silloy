@@ -13,8 +13,8 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
+*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [Markdown](#markdown)
@@ -43,6 +43,86 @@
 *   [Kotlin](#kotlin)
 *   [TeX](#tex)
 *   [Thanks](#thanks)
+
+## Python
+
+*   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+
+*   [666ghj/DeepSearchAgent-Demo](https://github.com/666ghj/DeepSearchAgent-Demo) - 从0实现一个简洁清晰的Deep Search Agent
+
+*   [TakatoHonda/sui-lang](https://github.com/TakatoHonda/sui-lang) - 粋 (Sui) - A programming language optimized for LLM code generation
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+
+*   [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
+
+*   [BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B) - Spiking Brain-inspired Large Models, integrating hybrid efficient attention, MoE modules and spike encoding into its architecture
+
+*   [thomas-yanxin/ColugoMum](https://github.com/thomas-yanxin/ColugoMum) - 🍰🍎ColugoMum: Intelligent Retail Settlement Platform can accurately locate and identify each commodity, and can return a complete shopping list and the actual total price of commodities that customers should pay.
+
+*   [OpenManus/OpenManus-RL](https://github.com/OpenManus/OpenManus-RL) - A live stream development of RL tunning for LLM agents
+
+*   [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
+
+*   [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
+
+*   [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+
+*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
+*   [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
+
+*   [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
+
+*   [sripathikrishnan/redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools) - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [eigenmiao/Rickrack](https://github.com/eigenmiao/Rickrack) - Generate harmonious colors freely.
+
+*   [JimSunJing/douban\_crawler](https://github.com/JimSunJing/douban_crawler) - 备份豆瓣计划
+
+*   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+
+*   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
+
+*   [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
+
+*   [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+
+*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
+
+*   [DT42/BerryNet](https://github.com/DT42/BerryNet) - Deep learning gateway on Raspberry Pi and other edge devices
+
+*   [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f\*ck Python? 😱
+
+*   [ehForwarderBot/ehForwarderBot](https://github.com/ehForwarderBot/ehForwarderBot) - An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.
+
+*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
+
+*   [raptorz/alidayu](https://github.com/raptorz/alidayu) - 阿里大鱼短信接口，python3
+
+*   [0x5010/alidayu](https://github.com/0x5010/alidayu) - 阿里大鱼短信接口， 修改至阿里大于官方python sdk 支持python2, python3。
+
+*   [wangtonghe/hq-answer-assist](https://github.com/wangtonghe/hq-answer-assist) - 百万英雄、冲顶大会等HQ类答题游戏辅助。Android、iOS均支持，推荐答案标红显示。
+
+*   [Prinsphield/Wechat\_AutoJump](https://github.com/Prinsphield/Wechat_AutoJump) - AI plays WeChat Jump Game
+
+*   [wangshub/wechat\_jump\_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
+
+*   [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
+
+*   [gnuhpc/All-About-Redis](https://github.com/gnuhpc/All-About-Redis) -
+
+*   [CosmoGao/turing-chat](https://github.com/CosmoGao/turing-chat) - A Wechat robot based Python
+
+*   [arvi/Agila-Theme](https://github.com/arvi/Agila-Theme) - A Sublime Text 3 UI Theme
 
 ## miscellaneous
 
@@ -137,82 +217,6 @@
 *   [giantray/stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
 
 *   [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
-
-## Python
-
-*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-
-*   [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
-
-*   [BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B) - Spiking Brain-inspired Large Models, integrating hybrid efficient attention, MoE modules and spike encoding into its architecture
-
-*   [thomas-yanxin/ColugoMum](https://github.com/thomas-yanxin/ColugoMum) - 🍰🍎ColugoMum: Intelligent Retail Settlement Platform can accurately locate and identify each commodity, and can return a complete shopping list and the actual total price of commodities that customers should pay.
-
-*   [OpenManus/OpenManus-RL](https://github.com/OpenManus/OpenManus-RL) - A live stream development of RL tunning for LLM agents
-
-*   [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
-
-*   [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
-
-*   [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-
-*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-
-*   [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-
-*   [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
-
-*   [sripathikrishnan/redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools) - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [eigenmiao/Rickrack](https://github.com/eigenmiao/Rickrack) - Generate harmonious colors freely.
-
-*   [JimSunJing/douban\_crawler](https://github.com/JimSunJing/douban_crawler) - 备份豆瓣计划
-
-*   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-
-*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
-
-*   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
-
-*   [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
-
-*   [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
-
-*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-
-*   [DT42/BerryNet](https://github.com/DT42/BerryNet) - Deep learning gateway on Raspberry Pi and other edge devices
-
-*   [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f\*ck Python? 😱
-
-*   [ehForwarderBot/ehForwarderBot](https://github.com/ehForwarderBot/ehForwarderBot) - An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.
-
-*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-
-*   [raptorz/alidayu](https://github.com/raptorz/alidayu) - 阿里大鱼短信接口，python3
-
-*   [0x5010/alidayu](https://github.com/0x5010/alidayu) - 阿里大鱼短信接口， 修改至阿里大于官方python sdk 支持python2, python3。
-
-*   [wangtonghe/hq-answer-assist](https://github.com/wangtonghe/hq-answer-assist) - 百万英雄、冲顶大会等HQ类答题游戏辅助。Android、iOS均支持，推荐答案标红显示。
-
-*   [Prinsphield/Wechat\_AutoJump](https://github.com/Prinsphield/Wechat_AutoJump) - AI plays WeChat Jump Game
-
-*   [wangshub/wechat\_jump\_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
-
-*   [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
-
-*   [gnuhpc/All-About-Redis](https://github.com/gnuhpc/All-About-Redis) -
-
-*   [CosmoGao/turing-chat](https://github.com/CosmoGao/turing-chat) - A Wechat robot based Python
-
-*   [arvi/Agila-Theme](https://github.com/arvi/Agila-Theme) - A Sublime Text 3 UI Theme
-
-*   [waditu/tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
 
 ## JavaScript
 
@@ -467,10 +471,6 @@
 *   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
 *   [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
-
-*   [shekhargulati/day12-face-detection](https://github.com/shekhargulati/day12-face-detection) - OpenCV Java example
-
-*   [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) - The missing Java distribution of native C++ libraries
 
 ## Markdown
 
