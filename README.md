@@ -29,7 +29,6 @@
 *   [Swift](#swift)
 *   [Vue](#vue)
 *   [HTML](#html)
-*   [Dart](#dart)
 *   [Go](#go)
 *   [SCSS](#scss)
 *   [C](#c-1)
@@ -48,7 +47,7 @@
 
 *   [google/A2UI](https://github.com/google/A2UI) -
 
-*   [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli) - not another coding agent, kode is agent cli for everything
+*   [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli) - Kode is one unit agent for every human & computer task
 
 *   [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 
@@ -590,11 +589,9 @@
 
 *   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 
-## Dart
+## Go
 
 *   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-
-## Go
 
 *   [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
 
