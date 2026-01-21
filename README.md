@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -25,7 +26,6 @@
 *   [Astro](#astro)
 *   [C++](#c)
 *   [Cuda](#cuda)
-*   [Rust](#rust)
 *   [Swift](#swift)
 *   [Vue](#vue)
 *   [HTML](#html)
@@ -42,6 +42,14 @@
 *   [Kotlin](#kotlin)
 *   [TeX](#tex)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
+
+*   [arthur-zhang/vxlan-hack](https://github.com/arthur-zhang/vxlan-hack) -
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
 ## TypeScript
 
@@ -238,8 +246,6 @@
 *   [unknwon/go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
 
 *   [giantray/stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
-
-*   [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 
 ## JavaScript
 
@@ -558,12 +564,6 @@
 ## Cuda
 
 *   [computerhistory/AlexNet-Source-Code](https://github.com/computerhistory/AlexNet-Source-Code) - This package contains the original 2012 AlexNet code.
-
-## Rust
-
-*   [arthur-zhang/vxlan-hack](https://github.com/arthur-zhang/vxlan-hack) -
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
 ## Swift
 
