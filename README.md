@@ -601,7 +601,7 @@
 
 *   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 *   [silloy/mqtt-go](https://github.com/silloy/mqtt-go) - golang使用mqtt的案例
 
