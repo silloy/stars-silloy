@@ -13,8 +13,8 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [TypeScript](#typescript)
+*   [Rust](#rust)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -43,15 +43,9 @@
 *   [TeX](#tex)
 *   [Thanks](#thanks)
 
-## Rust
-
-*   [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
-
-*   [arthur-zhang/vxlan-hack](https://github.com/arthur-zhang/vxlan-hack) -
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-
 ## TypeScript
+
+*   [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.
 
 *   [google/A2UI](https://github.com/google/A2UI) -
 
@@ -76,6 +70,14 @@
 *   [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 *   [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
+
+## Rust
+
+*   [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
+
+*   [arthur-zhang/vxlan-hack](https://github.com/arthur-zhang/vxlan-hack) -
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
 ## Python
 
@@ -152,8 +154,6 @@
 *   [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 
 *   [gnuhpc/All-About-Redis](https://github.com/gnuhpc/All-About-Redis) -
-
-*   [CosmoGao/turing-chat](https://github.com/CosmoGao/turing-chat) - A Wechat robot based Python
 
 ## miscellaneous
 
