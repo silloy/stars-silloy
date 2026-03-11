@@ -13,8 +13,8 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [TypeScript](#typescript)
+*   [Python](#python)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -40,8 +40,37 @@
 *   [Erlang](#erlang)
 *   [Vim Script](#vim-script)
 *   [Kotlin](#kotlin)
-*   [TeX](#tex)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+
+*   [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.
+
+*   [google/A2UI](https://github.com/google/A2UI) -
+
+*   [shareAI-lab/Kode-Agent](https://github.com/shareAI-lab/Kode-Agent) - Kode Agent — Design for post-human workflows. One unit agent for every human & computer task.
+
+*   [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
+
+*   [sparkjsdev/spark](https://github.com/sparkjsdev/spark) - :sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js
+
+*   [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
+
+*   [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
+
+*   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+
+*   [frankcbliu/awesome-nextjs-notion-blog](https://github.com/frankcbliu/awesome-nextjs-notion-blog) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
+
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+
+*   [ralscha/blog](https://github.com/ralscha/blog) - Source code for my blog posts
+
+*   [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+
+*   [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 
 ## Python
 
@@ -122,34 +151,6 @@
 *   [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 
 *   [gnuhpc/All-About-Redis](https://github.com/gnuhpc/All-About-Redis) -
-
-## TypeScript
-
-*   [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.
-
-*   [google/A2UI](https://github.com/google/A2UI) -
-
-*   [shareAI-lab/Kode-Agent](https://github.com/shareAI-lab/Kode-Agent) - Kode Agent — Design for post-human workflows. One unit agent for every human & computer task.
-
-*   [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
-
-*   [sparkjsdev/spark](https://github.com/sparkjsdev/spark) - :sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js
-
-*   [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
-
-*   [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
-
-*   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-
-*   [frankcbliu/awesome-nextjs-notion-blog](https://github.com/frankcbliu/awesome-nextjs-notion-blog) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
-
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-
-*   [ralscha/blog](https://github.com/ralscha/blog) - Source code for my blog posts
-
-*   [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-
-*   [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 
 ## Rust
 
@@ -694,10 +695,6 @@
 ## Kotlin
 
 *   [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
-
-## TeX
-
-*   [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 
 ## Thanks
 
