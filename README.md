@@ -13,10 +13,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [Markdown](#markdown)
@@ -40,6 +40,44 @@
 *   [Erlang](#erlang)
 *   [Vim Script](#vim-script)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [webup/skills-cc](https://github.com/webup/skills-cc) - Claude Code utility skills for customization and hacks
+
+*   [szhshp/panda-video-generator](https://github.com/szhshp/panda-video-generator) - 熊猫视频自动化引擎: 用程序员的方式帮你自动化视频创作与发布
+
+*   [OpenBMB/EdgeClaw](https://github.com/OpenBMB/EdgeClaw) - EdgeClaw: Edge-Cloud Collaborative Personal AI Assistant based on OpenClaw
+
+*   [linuxhsj/openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) - OpenClaw: Use All Major AI Models NO API Token! Claude/ChatGPT/Gemini/DeepSeek/Doubao/Grok/Qwen/Manus/Kimi
+
+*   [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
+
+*   [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.
+
+*   [google/A2UI](https://github.com/google/A2UI) -
+
+*   [shareAI-lab/Kode-Agent](https://github.com/shareAI-lab/Kode-Agent) - Kode Agent — Design for post-human workflows. One unit agent for every human & computer task.
+
+*   [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
+
+*   [sparkjsdev/spark](https://github.com/sparkjsdev/spark) - :sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js
+
+*   [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
+
+*   [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
+
+*   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+
+*   [frankcbliu/awesome-nextjs-notion-blog](https://github.com/frankcbliu/awesome-nextjs-notion-blog) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
+
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+
+*   [ralscha/blog](https://github.com/ralscha/blog) - Source code for my blog posts
+
+*   [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+
+*   [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 
 ## Rust
 
@@ -231,42 +269,6 @@
 
 *   [giantray/stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
 
-## TypeScript
-
-*   [szhshp/panda-video-generator](https://github.com/szhshp/panda-video-generator) - 熊猫视频自动化引擎: 用程序员的方式帮你自动化视频创作与发布
-
-*   [OpenBMB/EdgeClaw](https://github.com/OpenBMB/EdgeClaw) - EdgeClaw: Edge-Cloud Collaborative Personal AI Assistant based on OpenClaw
-
-*   [linuxhsj/openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) - OpenClaw: Use All Major AI Models NO API Token! Claude/ChatGPT/Gemini/DeepSeek/Doubao/Grok/Qwen/Manus/Kimi
-
-*   [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
-
-*   [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.
-
-*   [google/A2UI](https://github.com/google/A2UI) -
-
-*   [shareAI-lab/Kode-Agent](https://github.com/shareAI-lab/Kode-Agent) - Kode Agent — Design for post-human workflows. One unit agent for every human & computer task.
-
-*   [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
-
-*   [sparkjsdev/spark](https://github.com/sparkjsdev/spark) - :sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js
-
-*   [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
-
-*   [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
-
-*   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-
-*   [frankcbliu/awesome-nextjs-notion-blog](https://github.com/frankcbliu/awesome-nextjs-notion-blog) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
-
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-
-*   [ralscha/blog](https://github.com/ralscha/blog) - Source code for my blog posts
-
-*   [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-
-*   [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
-
 ## JavaScript
 
 *   [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
@@ -301,7 +303,7 @@
 
 *   [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 
-*   [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课（播放量 496.2 万） （共40集，每一集 10 分钟）2018 年完成翻译。视频评论区可以看到诸多好评
+*   [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课（播放量 496.2 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评
 
 *   [ppoffice/hexo-theme-hueman](https://github.com/ppoffice/hexo-theme-hueman) - A redesign of Alx's wordpress theme Hueman, ported to Hexo.
 
@@ -504,8 +506,6 @@
 *   [spring-attic/spring-security-oauth](https://github.com/spring-attic/spring-security-oauth) - Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.
 
 *   [spring-cloud/spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Integration with Netflix OSS components
-
-*   [takari/maven-wrapper](https://github.com/takari/maven-wrapper) - The easiest way to integrate Maven into your project!
 
 ## Markdown
 
