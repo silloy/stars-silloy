@@ -14,6 +14,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Go](#go)
 *   [Rust](#rust)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -29,7 +30,6 @@
 *   [Swift](#swift)
 *   [Vue](#vue)
 *   [HTML](#html)
-*   [Go](#go)
 *   [SCSS](#scss)
 *   [C](#c-1)
 *   [Stylus](#stylus)
@@ -42,6 +42,8 @@
 *   [Thanks](#thanks)
 
 ## TypeScript
+
+*   [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - 一站式管理 New API 兼容中转站账号：余额/用量看板、自动签到、密钥一键导出到常用应用、网页内 API 可用性测试、渠道与模型同步/重定向 | New‑API relay manager: balance/usage, auto check‑in, one‑click key export to popular clients, in‑page API checks, channel/model sync & redirect
 
 *   [webup/skills-cc](https://github.com/webup/skills-cc) - Claude Code utility skills for customization and hacks
 
@@ -78,6 +80,58 @@
 *   [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 *   [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
+
+## Go
+
+*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
+
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
+
+*   [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
+
+*   [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies.
+
+*   [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+
+*   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+*   [silloy/mqtt-go](https://github.com/silloy/mqtt-go) - golang使用mqtt的案例
+
+*   [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+
+*   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
+
+*   [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
+
+*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
+
+*   [Terry-Mao/goim](https://github.com/Terry-Mao/goim) - goim
+
+*   [zentures/surgemq](https://github.com/zentures/surgemq) - (Unmaintained) High-Performance MQTT Server and Client Libraries
+
+*   [AntShakeTree/go-springcloud-euraka](https://github.com/AntShakeTree/go-springcloud-euraka) - Go 实现的EurakaClien
+
+*   [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
+
+*   [eriklupander/go-microservice-eureka](https://github.com/eriklupander/go-microservice-eureka) - Sample golang project with a simple http service exposing itself by registering with Eureka.
+
+*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+
+*   [ArthurHlt/go-eureka-client](https://github.com/ArthurHlt/go-eureka-client) - A go client to communicate with the service discovery application Eureka
+
+*   [hudl/fargo](https://github.com/hudl/fargo) - Golang client for Netflix Eureka
+
+*   [bot-api/telegram](https://github.com/bot-api/telegram) - Implementation for the telegram bot API
+
+*   [golang/go](https://github.com/golang/go) - The Go programming language
+
+*   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
+
+*   [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+
+*   [apache/servicecomb-service-center](https://github.com/apache/servicecomb-service-center) - A standalone service center to allow services to register their instance information and to discover providers of a given service
 
 ## Rust
 
@@ -503,10 +557,6 @@
 
 *   [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
 
-*   [spring-attic/spring-security-oauth](https://github.com/spring-attic/spring-security-oauth) - Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.
-
-*   [spring-cloud/spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Integration with Netflix OSS components
-
 ## Markdown
 
 *   [ascendho/code-2nd](https://github.com/ascendho/code-2nd) - 🔢 《编码》第二版官方参考资源（勘误表，书籍插图、交互式网站和英文PDF）以及个人笔记✍️，大师Charles Petzold对《编码》这一力作的再版，理解计算机底层原理的极佳入门读物📔
@@ -594,56 +644,6 @@
 *   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 
 *   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
-
-## Go
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
-
-*   [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
-
-*   [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies.
-
-*   [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-
-*   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-
-*   [silloy/mqtt-go](https://github.com/silloy/mqtt-go) - golang使用mqtt的案例
-
-*   [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-
-*   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
-
-*   [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
-
-*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
-
-*   [Terry-Mao/goim](https://github.com/Terry-Mao/goim) - goim
-
-*   [zentures/surgemq](https://github.com/zentures/surgemq) - (Unmaintained) High-Performance MQTT Server and Client Libraries
-
-*   [AntShakeTree/go-springcloud-euraka](https://github.com/AntShakeTree/go-springcloud-euraka) - Go 实现的EurakaClien
-
-*   [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
-
-*   [eriklupander/go-microservice-eureka](https://github.com/eriklupander/go-microservice-eureka) - Sample golang project with a simple http service exposing itself by registering with Eureka.
-
-*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
-
-*   [ArthurHlt/go-eureka-client](https://github.com/ArthurHlt/go-eureka-client) - A go client to communicate with the service discovery application Eureka
-
-*   [hudl/fargo](https://github.com/hudl/fargo) - Golang client for Netflix Eureka
-
-*   [bot-api/telegram](https://github.com/bot-api/telegram) - Implementation for the telegram bot API
-
-*   [golang/go](https://github.com/golang/go) - The Go programming language
-
-*   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-
-*   [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
-
-*   [apache/servicecomb-service-center](https://github.com/apache/servicecomb-service-center) - A standalone service center to allow services to register their instance information and to discover providers of a given service
 
 ## SCSS
 
