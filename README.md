@@ -49,8 +49,6 @@
 
 *   [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 
-*   [anyofai/poe](https://github.com/anyofai/poe) - 最新Poe订阅教程：2026年国内如何充值购买Poe账号？支持GPT-5.2、GPT-4o、Claude Opus 4.6、Claude 4.5 Sonnet、Grok-4.1、Gemini-3.1 Pro等顶尖大模型！
-
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
 *   [WeitaoZhu/Python](https://github.com/WeitaoZhu/Python) - Python经典书籍
@@ -558,6 +556,8 @@
 *   [easybest/spring-data-mybatis](https://github.com/easybest/spring-data-mybatis) - Simplifies the development of creating a MyBatis-based data access layer.
 
 *   [btraceio/btrace](https://github.com/btraceio/btrace) - BTrace - a safe, dynamic tracing tool for the Java platform
+
+*   [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
 
 ## Markdown
 
