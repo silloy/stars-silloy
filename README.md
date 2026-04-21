@@ -13,12 +13,12 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Rust](#rust)
-*   [Python](#python)
 *   [Java](#java)
 *   [Markdown](#markdown)
 *   [Shell](#shell)
@@ -40,6 +40,94 @@
 *   [Erlang](#erlang)
 *   [Vim Script](#vim-script)
 *   [Thanks](#thanks)
+
+## Python
+
+*   [AmiiboDB/Amiibo](https://github.com/AmiiboDB/Amiibo) - Amiibo .bin and .nfc database
+
+*   [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) -
+
+*   [aliyun/data-agent-skill](https://github.com/aliyun/data-agent-skill) - 数据分析智能体
+
+*   [LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) - 🧠 Curated collection of 560+ best OpenClaw skills — weekly updated by MyClaw.ai
+
+*   [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+
+*   [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
+
+*   [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+
+*   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+
+*   [666ghj/DeepSearchAgent-Demo](https://github.com/666ghj/DeepSearchAgent-Demo) - 从0实现一个简洁清晰的Deep Search Agent
+
+*   [TakatoHonda/sui-lang](https://github.com/TakatoHonda/sui-lang) - 粋 (Sui) - A programming language optimized for LLM code generation
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+
+*   [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
+
+*   [BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B) - Spiking Brain-inspired Large Models, integrating hybrid efficient attention, MoE modules and spike encoding into its architecture
+
+*   [thomas-yanxin/ColugoMum](https://github.com/thomas-yanxin/ColugoMum) - 🍰🍎ColugoMum: Intelligent Retail Settlement Platform can accurately locate and identify each commodity, and can return a complete shopping list and the actual total price of commodities that customers should pay.
+
+*   [OpenManus/OpenManus-RL](https://github.com/OpenManus/OpenManus-RL) - A live stream development of RL tunning for LLM agents
+
+*   [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
+
+*   [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
+
+*   [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+
+*   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
+*   [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
+
+*   [verl-project/verl](https://github.com/verl-project/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
+
+*   [sripathikrishnan/redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools) - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [eigenmiao/Rickrack](https://github.com/eigenmiao/Rickrack) - Generate harmonious colors freely.
+
+*   [JimSunJing/douban\_crawler](https://github.com/JimSunJing/douban_crawler) - 备份豆瓣计划
+
+*   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+
+*   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
+
+*   [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
+
+*   [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+
+*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
+
+*   [DT42/BerryNet](https://github.com/DT42/BerryNet) - Deep learning gateway on Raspberry Pi and other edge devices
+
+*   [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f\*ck Python? 😱
+
+*   [ehForwarderBot/ehForwarderBot](https://github.com/ehForwarderBot/ehForwarderBot) - An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.
+
+*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
+
+*   [raptorz/alidayu](https://github.com/raptorz/alidayu) - 阿里大鱼短信接口，python3
+
+*   [0x5010/alidayu](https://github.com/0x5010/alidayu) - 阿里大鱼短信接口， 修改至阿里大于官方python sdk 支持python2, python3。
+
+*   [wangtonghe/hq-answer-assist](https://github.com/wangtonghe/hq-answer-assist) - 百万英雄、冲顶大会等HQ类答题游戏辅助。Android、iOS均支持，推荐答案标红显示。
+
+*   [Prinsphield/Wechat\_AutoJump](https://github.com/Prinsphield/Wechat_AutoJump) - AI plays WeChat Jump Game
+
+*   [wangshub/wechat\_jump\_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
+
+*   [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 
 ## miscellaneous
 
@@ -307,92 +395,6 @@
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
-## Python
-
-*   [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) -
-
-*   [aliyun/data-agent-skill](https://github.com/aliyun/data-agent-skill) - 数据分析智能体
-
-*   [LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) - 🧠 Curated collection of 560+ best OpenClaw skills — weekly updated by MyClaw.ai
-
-*   [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-
-*   [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
-
-*   [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-
-*   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-
-*   [666ghj/DeepSearchAgent-Demo](https://github.com/666ghj/DeepSearchAgent-Demo) - 从0实现一个简洁清晰的Deep Search Agent
-
-*   [TakatoHonda/sui-lang](https://github.com/TakatoHonda/sui-lang) - 粋 (Sui) - A programming language optimized for LLM code generation
-
-*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-
-*   [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
-
-*   [BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B) - Spiking Brain-inspired Large Models, integrating hybrid efficient attention, MoE modules and spike encoding into its architecture
-
-*   [thomas-yanxin/ColugoMum](https://github.com/thomas-yanxin/ColugoMum) - 🍰🍎ColugoMum: Intelligent Retail Settlement Platform can accurately locate and identify each commodity, and can return a complete shopping list and the actual total price of commodities that customers should pay.
-
-*   [OpenManus/OpenManus-RL](https://github.com/OpenManus/OpenManus-RL) - A live stream development of RL tunning for LLM agents
-
-*   [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
-
-*   [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
-
-*   [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-
-*   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-
-*   [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-
-*   [verl-project/verl](https://github.com/verl-project/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
-
-*   [sripathikrishnan/redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools) - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [eigenmiao/Rickrack](https://github.com/eigenmiao/Rickrack) - Generate harmonious colors freely.
-
-*   [JimSunJing/douban\_crawler](https://github.com/JimSunJing/douban_crawler) - 备份豆瓣计划
-
-*   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-
-*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
-
-*   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
-
-*   [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
-
-*   [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
-
-*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-
-*   [DT42/BerryNet](https://github.com/DT42/BerryNet) - Deep learning gateway on Raspberry Pi and other edge devices
-
-*   [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f\*ck Python? 😱
-
-*   [ehForwarderBot/ehForwarderBot](https://github.com/ehForwarderBot/ehForwarderBot) - An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.
-
-*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-
-*   [raptorz/alidayu](https://github.com/raptorz/alidayu) - 阿里大鱼短信接口，python3
-
-*   [0x5010/alidayu](https://github.com/0x5010/alidayu) - 阿里大鱼短信接口， 修改至阿里大于官方python sdk 支持python2, python3。
-
-*   [wangtonghe/hq-answer-assist](https://github.com/wangtonghe/hq-answer-assist) - 百万英雄、冲顶大会等HQ类答题游戏辅助。Android、iOS均支持，推荐答案标红显示。
-
-*   [Prinsphield/Wechat\_AutoJump](https://github.com/Prinsphield/Wechat_AutoJump) - AI plays WeChat Jump Game
-
-*   [wangshub/wechat\_jump\_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
-
-*   [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
-
 ## Java
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
@@ -556,8 +558,6 @@
 *   [easybest/spring-data-mybatis](https://github.com/easybest/spring-data-mybatis) - Simplifies the development of creating a MyBatis-based data access layer.
 
 *   [btraceio/btrace](https://github.com/btraceio/btrace) - BTrace - a safe, dynamic tracing tool for the Java platform
-
-*   [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
 
 ## Markdown
 
