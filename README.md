@@ -83,7 +83,7 @@
 
 *   [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 
-*   [verl-project/verl](https://github.com/verl-project/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
+*   [verl-project/verl](https://github.com/verl-project/verl) - verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework
 
 *   [sripathikrishnan/redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools) - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON
 
@@ -369,7 +369,7 @@
 
 *   [eriklupander/go-microservice-eureka](https://github.com/eriklupander/go-microservice-eureka) - Sample golang project with a simple http service exposing itself by registering with Eureka.
 
-*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.
 
 *   [ArthurHlt/go-eureka-client](https://github.com/ArthurHlt/go-eureka-client) - A go client to communicate with the service discovery application Eureka
 
