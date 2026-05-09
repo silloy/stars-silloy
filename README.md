@@ -19,6 +19,7 @@
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Rust](#rust)
+*   [Dockerfile](#dockerfile)
 *   [Java](#java)
 *   [Markdown](#markdown)
 *   [Shell](#shell)
@@ -42,6 +43,8 @@
 *   [Thanks](#thanks)
 
 ## Python
+
+*   [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 
 *   [AmiiboDB/Amiibo](https://github.com/AmiiboDB/Amiibo) - Amiibo .bin and .nfc database
 
@@ -229,8 +232,6 @@
 
 *   [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 
-*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-
 *   [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 
 *   [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源客服系统
@@ -394,6 +395,10 @@
 *   [arthur-zhang/vxlan-hack](https://github.com/arthur-zhang/vxlan-hack) -
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+
+## Dockerfile
+
+*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
 ## Java
 
@@ -614,8 +619,6 @@
 *   [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 
 *   [ice1000/algo4j](https://github.com/ice1000/algo4j) - :horse\_racing: An algorithm library using java native interface
-
-*   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 ## Cuda
 
