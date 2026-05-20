@@ -44,6 +44,8 @@
 
 ## miscellaneous
 
+*   [cclank/Hermes-Wiki](https://github.com/cclank/Hermes-Wiki) - Hermes agent + LLM Wiki + 源代码 完成 Hermes agent  wiki
+
 *   [520hacker/awesome-ai](https://github.com/520hacker/awesome-ai) - 对开源AI转发套壳应用生态进行研究，收集开源AI转发套壳应用，并进行对比。 ChatGPT,OPENAI.AZURE,BAIDU,XUNFEI
 
 *   [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
@@ -230,7 +232,7 @@
 
 ## JavaScript
 
-*   [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+*   [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 *   [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 
@@ -295,8 +297,6 @@
 *   [cryptocoinjs/sha512](https://github.com/cryptocoinjs/sha512) - DEPRECATED - SHA 512 secure hashing algorithm
 
 *   [breakwa11/gfw\_whitelist](https://github.com/breakwa11/gfw_whitelist) - gfw\_whitelist
-
-*   [michaelliao/springcloud](https://github.com/michaelliao/springcloud) -
 
 ## TypeScript
 
