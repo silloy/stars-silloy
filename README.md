@@ -462,7 +462,7 @@
 
 *   [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java
 
-*   [spring-cloud/spring-cloud-sleuth](https://github.com/spring-cloud/spring-cloud-sleuth) - Distributed tracing for spring cloud
+*   [spring-attic/spring-cloud-sleuth](https://github.com/spring-attic/spring-cloud-sleuth) - Distributed tracing for spring cloud
 
 *   [Javen205/IJPay-Demo](https://github.com/Javen205/IJPay-Demo) - 🔥 此项目为 1.x 版本Demo，2.x 版本 IJPay-Demo 请移步至 https://gitee.com/javen205/IJPay
 
