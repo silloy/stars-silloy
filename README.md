@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -30,7 +31,6 @@
 *   [Cuda](#cuda)
 *   [Swift](#swift)
 *   [Vue](#vue)
-*   [HTML](#html)
 *   [SCSS](#scss)
 *   [C](#c-1)
 *   [Stylus](#stylus)
@@ -41,6 +41,14 @@
 *   [Erlang](#erlang)
 *   [Vim Script](#vim-script)
 *   [Thanks](#thanks)
+
+## HTML
+
+*   [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
+
+*   [phodal/ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
+
+*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 
 ## TypeScript
 
@@ -564,8 +572,6 @@
 
 *   [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 
-*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
-
 ## Markdown
 
 *   [ascendho/code-2nd](https://github.com/ascendho/code-2nd) - 🔢 《编码》第二版官方参考资源（勘误表，书籍插图、交互式网站和英文PDF）以及个人笔记✍️，大师Charles Petzold对《编码》这一力作的再版，理解计算机底层原理的极佳入门读物📔
@@ -641,12 +647,6 @@
 *   [wangduanduan/v3-el-dashboard](https://github.com/wangduanduan/v3-el-dashboard) - vue-cli 3x版的dashboard, 使用vuex做多标签页，stupid simple!
 
 *   [alex1504/vue-qiniu-image-bed](https://github.com/alex1504/vue-qiniu-image-bed) - Vue-SPA-image-bed for qiniu image management.
-
-## HTML
-
-*   [phodal/ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
-
-*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 
 ## SCSS
 
