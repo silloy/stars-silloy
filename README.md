@@ -200,6 +200,8 @@
 
 *   [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 
+*   [anyofai/poe](https://github.com/anyofai/poe) - 最新Poe订阅教程：2026年国内如何充值购买Poe账号？支持GPT-5.2、GPT-4o、Claude Opus 4.6、Claude 4.5 Sonnet、Grok-4.1、Gemini-3.1 Pro等顶尖大模型！
+
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
 *   [WeitaoZhu/Python](https://github.com/WeitaoZhu/Python) - Python经典书籍
@@ -589,8 +591,6 @@
 *   [spencergibb/spring-cloud-gateway-bench](https://github.com/spencergibb/spring-cloud-gateway-bench) - Simple benchmark comparing zuul and spring cloud gateway
 
 *   [v5tech/notes](https://github.com/v5tech/notes) - notes
-
-*   [boot2docker/boot2docker](https://github.com/boot2docker/boot2docker) - DEPRECATED; see https://github.com/boot2docker/boot2docker/pull/1408
 
 ## Scala
 
